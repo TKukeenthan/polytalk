@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319391235777",
+    "project_id": "polytalk-1b614",
+    "storage_bucket": "polytalk-1b614.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319391235777:android:f478ac20be94df7f1d9e40",
+        "android_client_info": {
+          "package_name": "com.dttech.polytalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXYhgU378U7katil4gJJKsrszLayj7GFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
